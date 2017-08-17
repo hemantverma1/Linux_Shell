@@ -1,0 +1,6 @@
+This is an implementation of a full-fledged Linux shell which behaves like bash (except shell scripting support).
+Developed using system calls only, it supports multi-level pipelining, I/O redirection, process backgrounding
+and foregrounding, shell built-ins, child process management and children reaper.
+
+How to compile:
+make
